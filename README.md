@@ -52,7 +52,7 @@ This project applies machine learning to predict **average house prices in Londo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/predict-house-price.git
+   git clone https://github.com/AykanIpek/predict-house-price.git
    cd predict-house-price
    ```
 
