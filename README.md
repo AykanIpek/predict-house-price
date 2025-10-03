@@ -63,7 +63,7 @@ This project applies machine learning to predict **average house prices in Londo
 
 3. Run Jupyter Notebook or Python scripts:
    ```bash
-   jupyter notebook notebooks/house_price_prediction.ipynb
+   jupyter notebook notebooks/FinalProject.ipynb
    ```
 
 ---
